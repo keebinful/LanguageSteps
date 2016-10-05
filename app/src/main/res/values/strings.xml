@@ -1,17 +1,13 @@
 <resources>
     <string name="app_name">Language Steps</string>
-    <string name="title">Welcome to the Language Steps app. The purpose of this app is to present and outline 5 steps that I believe are essential to learning a new language. When you are ready, please tap the \"next\' button to move on. </string>
-    <string name="step1_title">Step 1: Identify Purpose</string>
+    <string name="step1_title">Step 1</string>
     <string name="step1_body">Before you start anything, it is important to know the reason for why you want to learn a particular language. For example, you may be learning to be able to play video games in that language, or perhaps for work. Deciding your purpose helps in the next step.</string>
-    <string name="step2_title">Step 2: Find enjoyable mediums</string>
+    <string name="step2_title">Step 2</string>
     <string name="step2_body">Whether it is through TV shows or video games, it is important to listen to the spoken language so that you can understand speech patterns. Try viewing your favorite media in your language of choice while breaking down the grammar structure and vocabulary that you can pick up.</string>
-    <string name="step3_title">Step 3: Practice communication</string>
+    <string name="step3_title">Step 3</string>
     <string name="step3_body">Find people to practice speaking in your given language to. If you do not know anyone who speaks the language, try to find online communities that communicate in this language. Bonus points if you dive into a native-only online community. </string>
-    <string name="step4_title">Step 4: Immersion</string>
+    <string name="step4_title">Step 4</string>
     <string name="step4_body">Do your best to include the language in your everyday life. This can include visiting the aforementioned online communities daily, consuming media in this language, or even trying to think in the new language. </string>
-    <string name="step5_title">Step 5: Expand knowledge</string>
+    <string name="step5_title">Step 5</string>
     <string name="step5_body">As you repeat the activities noted in the previous steps, you will eventually find that you have gained a natural, albeit limited, understanding of your target language. The final step will need to be repeated over and over: Find educational resources to learn reading and writing to build on the knowledge that you now have.</string>
-    <string name="conclusion">Thanks for trying the Language Steps app. I hope it has proven useful for you. Good luck in learning a new language! </string>
-    <string name="upper_limit_toast">There are no next steps.</string>
-    <string name="lower_limit_toast">There are no previous steps.</string>
 </resources>
